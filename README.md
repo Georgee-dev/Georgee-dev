@@ -13,8 +13,8 @@ Una persona con ganas de aprender cada día. Especializándome cada vez más en 
 **Sobre mi**
 
 - 👨🏻‍💻 Actualmente trabajando en <a href="https://www.linkedin.com/company/conexion_sv/" target="_blank">CONEXION El Salvador</a> y de Freelancer
-- 🌱 Actualmente estoy aprendiendo TypeScripts, NextJS, Solidity y temas relacionados con la web3
-- 🤔 Mis intereses de investigación son sobre Blockchain
+- 🌱 Actualmente estoy aprendiendo TypeScripts, NextJS y Solidity
+- 🤔 Mis intereses de investigación son sobre Blockchain y Web3
 - 💼 Estoy cursando Técnico en Ingeniería en Computación y tomando cursos Libres de Inglés de la udb
 
 ### Skills:
