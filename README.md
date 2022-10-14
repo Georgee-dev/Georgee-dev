@@ -1,7 +1,7 @@
 # Hola, soy George 👋
 
 Programador y Desarrollador web, Estudiante en Técnico en Ingeniería en Computación.
-Una persona con ganas de aprender cada día. Especializándome cada vez más en el desarrollo web, tratando la manera de adquirir nuevas habilidades y conocimientos que ayuden a la creación de nuevas soluciones y servicios a nuestra sociedad.
+Una persona con ganas de aprender cada día. Especializándome cada vez más en el desarrollo web, tratando la manera de adquirir nuevas habilidades y conocimientos que ayuden a la creación de nuevas soluciones y servicios a la sociedad.
 
  <!--   Social media -->
 #### Redes Sociales 
